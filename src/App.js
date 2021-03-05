@@ -15,6 +15,7 @@ const App = () => {
       <p>App</p>
       <br />
       <button>test25</button>
+      <button>test25</button>
     </>
   );
 };
